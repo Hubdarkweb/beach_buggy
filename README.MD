@@ -58,11 +58,11 @@ pip install multithreading
 you need to activate the repo on your termux 
 by :
 ````
-git clone https://github.com/Hubdarkweb/TOpPLUG-hunters.git
+git clone https://github.com/Hubdarkweb/beach_buggy.git
 ````
 **#then current directory**
 ````
-cd TOpPLUG-hunters
+cd beach_buggy
 ````
 **#HOW TO SCAN**
 ````
